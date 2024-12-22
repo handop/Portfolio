@@ -2,22 +2,19 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+- <b>Working with Visual Basic and SQL</b>
+  - <a href="https://github.com/handop/Programming-2">Programming 2 Final Project</a>
+- <b>Designing and Building Databases with SQL and T-SQL</b>
+  - <a href="https://github.com/handop/Programming-2">Database Design and SQL I Final Project</a>
+  - <a href="https://github.com/handop/Programming-2">Database Design and SQL II Final Project</a>
+- <b>Devoloping Websites with PHP and HTML</b>
+  - <a href="https://github.com/handop/Programming-2">Web Application I Final Project</a>
+- <b>Devoloping Websites with C#, Ajax, CS, HTML, and SQL</b>
+  - <a href="https://github.com/handop/Programming-2">Web Application Development II Final Project</a>
+- <b>Working with C</b>
+  - <a href="https://github.com/handop/Programming-2">C Programming I Final Project</a>
+- <b>Learning about Object-Oriented Programming</b>
+  - <a href="https://github.com/handop/Programming-2">Object-Oriented Programming Final Project</a>
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
